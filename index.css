@@ -1,0 +1,15 @@
+#container {
+    position: relative;
+    top:30px;
+    border:1px solid #000;
+    margin:0 auto;
+    height:600px;
+    width:600px;
+}
+.grid {
+    margin:0;
+    padding:0;
+    border:none;
+    outline:1px solid #000;
+    display:inline-block;
+}
